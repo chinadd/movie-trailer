@@ -1,5 +1,5 @@
 # Fresh Tomatoes - Movie trailer website 
-
+#
 To generate an html file execute `entertainment_center.py'.
 
 Quick Start:
