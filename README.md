@@ -5,7 +5,9 @@ To generate an html file execute `entertainment_center.py'.
 Quick Start:
 
 Install Python 2.7 - https://www.python.org/
+
 Create and view the movie trailer website - python entertainment_center.py
+
 Requirements:
 
 To use the Fresh Tomatoes movie website generation tool, you will need python 2.7 installed.
