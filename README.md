@@ -1,7 +1,5 @@
 # Fresh Tomatoes - Movie trailer website 
 
-This is project 1 (p1) of Udacity's Full Stack Web Developer Nanodegree class.
-
 To generate an html file execute `entertainment_center.py'.
 
 Quick Start:
